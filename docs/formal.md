@@ -1,4 +1,4 @@
-[TOC](index.md) | [Finite](finite.md)
+[TOC](index.md) | [Finite Automata](finite.md)
 
 ## Formal Languages
 
@@ -143,4 +143,4 @@ It is an infinite set of all possible strings over all posible length over alpha
 
 > Where λ is an null string.
 
-[TOC](index.md) | [Finite](finite.md)
+[TOC](index.md) | [Finite Automata](finite.md)
