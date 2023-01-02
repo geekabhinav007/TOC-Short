@@ -22,7 +22,7 @@ This automaton consists of
 
 ### Basics of strings
 
-A string or word over an alphabet $\sum$ is a finite sequence of concatenated symbols of $\sum$ .
+A string or word over an alphabet Σ is a finite sequence of concatenated symbols of Σ .
 
 *Length of a string* : The number of symbols in a string w is called its length, denoted by `|w|`.
 
@@ -30,7 +30,7 @@ A string or word over an alphabet $\sum$ is a finite sequence of concatenated sy
 
 ### Alphabets
 
-*Alphabets*: An alphabet is a finite, nonempty set of symbols. The alphabet of a language is normally denoted by $\sum$.
+*Alphabets*: An alphabet is a finite, nonempty set of symbols. The alphabet of a language is normally denoted by Σ.
 
 ### Formal language
 
@@ -147,13 +147,13 @@ L* ={ε} ∪ L ∪ L2 ∪ …
 
 ### Closure properties of language classes
 
-#### Kleen Star ($\sum$*)
+#### Kleen Star (Σ*)
 
-It is an infinite set of all possible strings over all posible length over alphabet ($\sum$), `Excluding` $\lambda$
+It is an infinite set of all possible strings over all posible length over alphabet (Σ), `Excluding` $\lambda$
 
-#### Kleen Positive($\sum$+)
+#### Kleen Positive(Σ+)
 
-It is an infinite set of all possible strings over all posible length over alphabet ($\sum$), `including` $\lambda$
+It is an infinite set of all possible strings over all posible length over alphabet (Σ), `including` $\lambda$
 
 > Where $\lambda$ is an null string.
 
