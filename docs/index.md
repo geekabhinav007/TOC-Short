@@ -26,7 +26,7 @@ A string or word over an alphabet $\sum$ is a finite sequence of concatenated sy
 
 *Length of a string* : The number of symbols in a string w is called its length, denoted by |w|.
 
-*Example* : | 011 | = 4, |11| = 2, | b | = 1
+*Example* : `| 011 |` = 4, `|11|` = 2, `| b |` = 1
 
 ### Alphabets
 
