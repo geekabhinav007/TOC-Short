@@ -1,4 +1,4 @@
-[Context Sensitive Language](contextS.md) | [TOC](index.md)
+[TOC](index.md) | [Formal Languages](formal.md) | [Finite Automata](finite.md) | [Regular Grammar](regular.md) | [Context Free Languages](contextF.md) | [Pushdown Automata](pushdown.md) | [Context Sensitive Language](contextS.md) | [Turing Machines](turing.md)
 
 ## Turing Machines
 
@@ -16,4 +16,4 @@
 
 ### Post correspondence problem
 
-[Context Sensitive Language](contextS.md) | [TOC](index.md)
+[TOC](index.md) | [Formal Languages](formal.md) | [Finite Automata](finite.md) | [Regular Grammar](regular.md) | [Context Free Languages](contextF.md) | [Pushdown Automata](pushdown.md) | [Context Sensitive Language](contextS.md) | [Turing Machines](turing.md)
