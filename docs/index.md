@@ -47,7 +47,7 @@ Most famous classification of grammars and languages ​​introduced by Noam Ch
 Noam Chomsky,is an American linguist,philosopher,cognitive scientist and social activist. Chomsky is well known in the academic and scientific community as one of the fathers of modern linguistics and a major figure of analitic philosophy.
 ```
 
-> T0 > T1  > T2 > T3
+> Type₀ > Type₁  > Type₂ > Type₃
 
 **0 –Recursively enumerable grammar** :
 *Type-0 grammars* (unrestricted grammars) include all formal grammars. They generate exactly all languages that can be recognized by a Turing machine. These languages are also known as the recursively enumerable languages. Note that this is different from the recursive languages which can be decided by an always-halting Turing machine.
