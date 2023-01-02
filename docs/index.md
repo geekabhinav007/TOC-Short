@@ -142,8 +142,8 @@ L* ={ε} ∪ L ∪ L2 ∪ …
 - Concatenation
 - kleen * closure
 
-![1](/image/1.png)
-![2](/image/2.png)
+![1](https://raw.githubusercontent.com/geekabhinav007/TOC-Short/main/image/1.png)
+![2](https://raw.githubusercontent.com/geekabhinav007/TOC-Short/main/image/2.png)
 
 ### Closure properties of language classes
 
