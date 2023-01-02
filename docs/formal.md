@@ -22,6 +22,8 @@ A string or word over an alphabet Σ is a finite sequence of concatenated symbol
 
 ### Chomsky Classification of languages
 
+![chomsky](https://files.codingninjas.in/article_images/chomsky-hierarchy-0-1649181153.jpg)
+
 Most famous classification of grammars and languages ​​introduced by Noam Chomsky is divided into four classes:
 
 - `Recursively enumerable grammars` – recognizable by a Turing machine
