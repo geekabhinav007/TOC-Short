@@ -38,27 +38,52 @@ A string or word over an alphabet $\sum$ is a finite sequence of concatenated sy
 
 Most famous classification of grammars and languages ​​introduced by Noam Chomsky is divided into four classes:
 
-- Recursively enumerable grammars –recognizable by a Turing machine
-- Context-sensitive grammars –recognizable by the linear bounded automaton
-- Context-free grammars - recognizable by the pushdown automaton
-- Regular grammars –recognizable by the finite state automaton
+- `Recursively enumerable grammars` – recognizable by a Turing machine
+- `Context-sensitive grammars` – recognizable by the linear bounded automaton
+- `Context-free grammars` - recognizable by the pushdown automaton
+- `Regular grammars` – recognizable by the finite state automaton
 
-```Interesting…
-
+```
 Noam Chomsky,is an American linguist,philosopher,cognitive scientist and social activist. Chomsky is well known in the academic and scientific community as one of the fathers of modern linguistics and a major figure of analitic philosophy.
 ```
 
-*0 –Recursively enumerable grammar* :
-Type-0 grammars (unrestricted grammars) include all formal grammars. They generate exactly all languages that can be recognized by a Turing machine. These languages are also known as the recursively enumerable languages. Note that this is different from the recursive languages which can be decided by an always-halting Turing machine.
+> T0 > T1  > T2 > T3
+
+**0 –Recursively enumerable grammar** :
+*Type-0 grammars* (unrestricted grammars) include all formal grammars. They generate exactly all languages that can be recognized by a Turing machine. These languages are also known as the recursively enumerable languages. Note that this is different from the recursive languages which can be decided by an always-halting Turing machine.
 
 Class 0 grammars are too general to describe the syntax of programming languages ​​and natural languages​​.
 
-*1 –Context-sensitive grammars* :
-Type-1 grammars generate the context-sensitive languages. These grammars have rules of the form α A β → α γ β with A a nonterminal and α,β and γ strings of terminals and nonterminals. The strings α and β may be empty,but γ must be nonempty. The languages described by these grammars are exactly all languages that can be recognized by a linear bounded automaton.
+Expression
+
+```
+α -> β
+
+α : (V + T)^+^
+β : (V + T)^*^
+
+V : Variable (Non-Terminal)
+T : Terminal
+```
+
+**1 –Context-sensitive grammars** :
+*Type-1 grammars* generate the context-sensitive languages. These grammars have rules of the form α A β → α γ β with A a nonterminal and α,β and γ strings of terminals and nonterminals. The strings α and β may be empty,but γ must be nonempty. The languages described by these grammars are exactly all languages that can be recognized by a linear bounded automaton.
+
+Expression
+
+```
+αAβ -> αγβ
+
+A : non terminal or variable.
+α, β and γ are string of terminal or non terminal.
+```
+
+> String α, β can be empty but γ must be non-empty.
 
 Example:
 
-```AB → CDB
+```
+AB → CDB
 AB → CdEB
 ABcd → abCDBcd
 B → b
@@ -66,6 +91,17 @@ B → b
 
 *2 –Context-free grammars* :
 Type-2 grammars generate the context-free languages. These are defined by rules of the form A → γ with A a nonterminal and γ a string of terminals and nonterminals. These languages are exactly all languages that can be recognized by a non-deterministic pushdown automaton. Context-free languages are the theoretical basis for the syntax of most programming languages.
+
+Expression
+
+```
+A -> α
+
+A : single non terminal (Restriction)
+α are string of terminal or non terminal or variable (V+T)*.
+```
+
+> A is single non terminal
 
 Example:
 
@@ -77,7 +113,8 @@ A → aBc
 Type-3 grammars generate the regular languages. Such a grammar restricts its rules to a single nonterminal on the left-hand side and a right-hand side consisting of a single terminal,possibly followed (or preceded,but not both in the same grammar) by a single nonterminal. The rule S → ε is also allowed here if S does not appear on the right side of any rule. These languages are exactly all languages that can be decided by a finite state automaton. Additionally,this family of formal languages can be obtained by regular expresions. Regular languages are commonly used to define search patterns and the lexical structure of programming languages.
 Example:
 
-```A → ε
+```
+A → ε
 A →  a
 A →  abc
 A →  B
@@ -88,7 +125,8 @@ A →  abcB
 
 If languages L1 and L2 are regular,are also regular the following languages:
 
-```L1 ∪ L2
+```
+L1 ∪ L2
 L1 ∩ L2
 L1 *  L2 ={xy:x ∈ L1 ∧ y ∈ L2}
 L* ={ε} ∪ L ∪ L2 ∪ …
