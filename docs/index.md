@@ -149,13 +149,13 @@ L* ={ε} ∪ L ∪ L2 ∪ …
 
 #### Kleen Star (Σ*)
 
-It is an infinite set of all possible strings over all posible length over alphabet (Σ), `Excluding` $\lambda$
+It is an infinite set of all possible strings over all posible length over alphabet (Σ), `Excluding` λ
 
 #### Kleen Positive(Σ+)
 
-It is an infinite set of all possible strings over all posible length over alphabet (Σ), `including` $\lambda$
+It is an infinite set of all possible strings over all posible length over alphabet (Σ), `including` λ
 
-> Where $\lambda$ is an null string.
+> Where λ is an null string.
 
 ## Finite Automata
 
