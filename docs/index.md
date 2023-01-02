@@ -24,7 +24,7 @@ This automaton consists of
 
 A string or word over an alphabet $\sum$ is a finite sequence of concatenated symbols of $\sum$ .
 
-*Length of a string* : The number of symbols in a string w is called its length, denoted by |w|.
+*Length of a string* : The number of symbols in a string w is called its length, denoted by `|w|`.
 
 *Example* : `| 011 |` = 4, `|11|` = 2, `| b |` = 1
 
