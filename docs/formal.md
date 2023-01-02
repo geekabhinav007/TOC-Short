@@ -1,4 +1,4 @@
-[TOC](index.md) | [Finite Automata](finite.md)
+[TOC](index.md) | [Formal Languages](formal.md) | [Finite Automata](finite.md) | [Regular Grammar](regular.md) | [Context Free Languages](contextF.md) | [Pushdown Automata](pushdown.md) | [Context Sensitive Language](contextS.md) | [Turing Machines](turing.md)
 
 ## Formal Languages
 
@@ -143,4 +143,4 @@ It is an infinite set of all possible strings over all posible length over alpha
 
 > Where λ is an null string.
 
-[TOC](index.md) | [Finite Automata](finite.md)
+[TOC](index.md) | [Formal Languages](formal.md) | [Finite Automata](finite.md) | [Regular Grammar](regular.md) | [Context Free Languages](contextF.md) | [Pushdown Automata](pushdown.md) | [Context Sensitive Language](contextS.md) | [Turing Machines](turing.md)

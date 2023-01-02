@@ -1,4 +1,4 @@
-[Formal Language](formal.md) | [Regular Grammar](regular.md)
+[TOC](index.md) | [Formal Languages](formal.md) | [Finite Automata](finite.md) | [Regular Grammar](regular.md) | [Context Free Languages](contextF.md) | [Pushdown Automata](pushdown.md) | [Context Sensitive Language](contextS.md) | [Turing Machines](turing.md)
 
 ## Finite Automata
 
@@ -20,4 +20,4 @@
 
 ### Applications and limitations of Finite Automata
 
-[Formal Language](formal.md) | [Regular Grammar](regular.md)
+[TOC](index.md) | [Formal Languages](formal.md) | [Finite Automata](finite.md) | [Regular Grammar](regular.md) | [Context Free Languages](contextF.md) | [Pushdown Automata](pushdown.md) | [Context Sensitive Language](contextS.md) | [Turing Machines](turing.md)

@@ -1,4 +1,4 @@
-[Pushdown Automata](pushdown.md) | [Turing Machines](turing.md)
+[TOC](index.md) | [Formal Languages](formal.md) | [Finite Automata](finite.md) | [Regular Grammar](regular.md) | [Context Free Languages](contextF.md) | [Pushdown Automata](pushdown.md) | [Context Sensitive Language](contextS.md) | [Turing Machines](turing.md)
 
 ## Context Sensitive Language
 
@@ -8,4 +8,4 @@
 
 ### Relation between linear bounded automata and context sensitive language
 
-[Pushdown Automata](pushdown.md) | [Turing Machines](turing.md)
+[TOC](index.md) | [Formal Languages](formal.md) | [Finite Automata](finite.md) | [Regular Grammar](regular.md) | [Context Free Languages](contextF.md) | [Pushdown Automata](pushdown.md) | [Context Sensitive Language](contextS.md) | [Turing Machines](turing.md)

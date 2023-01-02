@@ -1,4 +1,4 @@
-[TOC](index.md) | [Formal Languages](formal.md)
+[TOC](index.md) | [Formal Languages](formal.md) | [Finite Automata](finite.md) | [Regular Grammar](regular.md) | [Context Free Languages](contextF.md) | [Pushdown Automata](pushdown.md) | [Context Sensitive Language](contextS.md) | [Turing Machines](turing.md)
 
 # Theory Of Computation
 
@@ -15,4 +15,5 @@ This automaton consists of
 - transitions (represented by arrows).
 
 > Uses of Automata: compiler design and parsing.
-[TOC](index.md) | [Formal Languages](formal.md)
+
+[TOC](index.md) | [Formal Languages](formal.md) | [Finite Automata](finite.md) | [Regular Grammar](regular.md) | [Context Free Languages](contextF.md) | [Pushdown Automata](pushdown.md) | [Context Sensitive Language](contextS.md) | [Turing Machines](turing.md)

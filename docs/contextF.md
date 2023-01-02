@@ -1,4 +1,4 @@
-[Regular Grammar](regular.md) | [Pushdown Automata](pushdown.md)
+[TOC](index.md) | [Formal Languages](formal.md) | [Finite Automata](finite.md) | [Regular Grammar](regular.md) | [Context Free Languages](contextF.md) | [Pushdown Automata](pushdown.md) | [Context Sensitive Language](contextS.md) | [Turing Machines](turing.md)
 
 ## Context Free Languages
 
@@ -18,4 +18,4 @@
 
 ### Pumping lemma2
 
-[Regular Grammar](regular.md) | [Pushdown Automata](pushdown.md)
+[TOC](index.md) | [Formal Languages](formal.md) | [Finite Automata](finite.md) | [Regular Grammar](regular.md) | [Context Free Languages](contextF.md) | [Pushdown Automata](pushdown.md) | [Context Sensitive Language](contextS.md) | [Turing Machines](turing.md)
