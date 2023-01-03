@@ -122,13 +122,15 @@ L* ={ε} ∪ L ∪ L2 ∪ …
 
 ### Operations on languages
 
-- Complement
-- Reverse
-- Union
-- Intersection
-- Difference
-- Concatenation
-- kleen * closure
+*Closure properties:*
+
+1. Union
+1. Concatenation
+1. Complement
+1. kleen * closure
+1. Difference
+1. Intersection
+1. Reverse
 
 ![1](https://raw.githubusercontent.com/geekabhinav007/TOC-Short/main/image/1.png)
 ![2](https://raw.githubusercontent.com/geekabhinav007/TOC-Short/main/image/2.png)
