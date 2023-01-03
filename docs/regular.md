@@ -2,11 +2,9 @@
 
 ## Regular Grammar
 
-### Regular grammars
-
 ### Regular expressions
 
-The language accepted by finite automata can be easily described by simple expressions called Regular Expressions.
+The language accepted by finite automata  can be easily described by simple expressions called Regular Expressions.
 
 The languages accepted by some regular expression are referred to as Regular languages.
 
