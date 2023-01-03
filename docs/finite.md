@@ -78,6 +78,34 @@ NFA stands for non-deterministic finite automata. It is used to transmit any num
 
 ### Moore and Mealy machines
 
+These are called finite auomata with output where as `DFA` and `NDFA` are known as finite automata without output.
+
+#### Mealy Machine
+
+A Mealy Machine is an FSM whose output depends on the `present state` as well as the `present input`.
+
+It can be described by a 6 tuple (Q, ∑, ▲, δ, λ, q0) where −
+
+- Q is a finite set of states.
+- ∑ is a finite set of symbols called the input alphabet.
+- `▲` is a finite set of symbols called the output alphabet.
+- δ is the input transition function where δ: Q × ∑ → Q
+- `λ` is the output transition function where `λ: Q × ∑ → ▲`
+- q0 is the initial state from where any input is processed (q0 ∈ Q).
+
+#### Moore Machine
+
+Moore machine is an FSM whose outputs depend on `only the present state`.
+
+A Moore machine can be described by a 6 tuple (Q, ∑, ▲, δ, λ, q0) where −
+
+- Q is a finite set of states.
+- ∑ is a finite set of symbols called the input alphabet.
+- `O` is a finite set of symbols called the output alphabet.
+- δ is the input transition function where δ: Q × ∑ → Q
+- `λ` is the output transition function where `λ: Q → ▲`
+- q0 is the initial state from where any input is processed (q0 ∈ Q).
+
 ### Equivalence of Moore and Mealy machine
 
 ### Minimization of Finite Automata
