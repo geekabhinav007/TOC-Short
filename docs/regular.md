@@ -2,6 +2,8 @@
 
 ## Regular Grammar
 
+Type 3 has two types of gammer Left linear grammer and Right linear grammer.
+
 ### What is grammer?
 
 A grammar G can be formally written as a 4-tuple (V, T, P, S) where −

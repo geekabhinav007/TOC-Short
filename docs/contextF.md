@@ -10,6 +10,12 @@
 
 ### Simplification of context free grammar
 
+#### Null Production
+
+#### Unit Production
+
+#### Useless Production
+
 ### Normal forms
 
 #### Chomsky Normal Form
