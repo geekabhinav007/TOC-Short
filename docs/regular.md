@@ -66,6 +66,8 @@ Assumptions for Applying Arden’s Theorem
 
 ### Properties of regular languages
 
+![prop][https://swaminathanj.github.io/fsm/rlproperties.html]
+
 ### Pumping lemma
 
 [TOC](index.md) | [Formal Languages](formal.md) | [Finite Automata](finite.md) | [Regular Grammar](regular.md) | [Context Free Languages](contextF.md) | [Pushdown Automata](pushdown.md) | [Context Sensitive Language](contextS.md) | [Turing Machines](turing.md)
