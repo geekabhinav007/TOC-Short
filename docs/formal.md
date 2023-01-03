@@ -37,6 +37,8 @@ Noam Chomsky,is an American linguist,philosopher,cognitive scientist and social 
 
 > Type₀ > Type₁  > Type₂ > Type₃
 
+> Variable is represented By Capital Alphabets where as Terminal are represented by small alphabets.
+
 **0 –Recursively enumerable grammar** :
 *Type-0 grammars* (unrestricted grammars) include all formal grammars. They generate exactly all languages that can be recognized by a Turing machine. These languages are also known as the recursively enumerable languages. Note that this is different from the recursive languages which can be decided by an always-halting Turing machine.
 
