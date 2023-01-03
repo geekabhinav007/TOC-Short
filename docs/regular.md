@@ -2,6 +2,18 @@
 
 ## Regular Grammar
 
+### What is grammer?
+
+A grammar G can be formally written as a 4-tuple (V, T, P, S) where −
+
+V or N is a set of variables or non-terminal symbols.
+
+T or ∑ is a set of Terminal symbols.
+
+S is a special variable called the Start symbol, S ∈ N
+
+P is Production rules for Terminals and Non-terminals. A production rule has the form α → β, where α and β are strings on V ∪ ∑ and least one symbol of α belongs to V.
+
 ### Regular expressions
 
 The language accepted by finite automata  can be easily described by simple expressions called Regular Expressions.
